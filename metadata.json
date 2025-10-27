@@ -1,0 +1,5 @@
+{
+  "name": "kaldıraç",
+  "description": "An AI-powered assistant for digital consultants, inspired by the Vizyon Pusulası camp. It helps analyze target audiences, craft irresistible offers, and generate ad copy using the Gemini API, following proven marketing formulas.",
+  "requestFramePermissions": []
+}
